@@ -3,8 +3,8 @@
 - 💻 Junior Web Developer
 - 🔠 English Conversational level
 - 🔠 Native spanish speaker
-- 👀 I’m interested in make better my work
-- 🌱 I’m currently learning making web pages
+- 📖 Learning making Web pages
+- 🥋 Martial Artist
 - 📧 mcprogramacion.salta@gmail.com / m.castaneda0494@gmail.com
 - <a href="https://www.linkedin.com/in/marcos-emanuel-casta%C3%B1eda-a99297146/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
